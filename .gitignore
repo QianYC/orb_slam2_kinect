@@ -1,0 +1,5 @@
+cmake-build-debug/
+orb-slam2.srctrldb
+orb-slam2.srctrlprj
+orb-slam2.srctrlbm
+ORBvoc.txt
